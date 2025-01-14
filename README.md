@@ -3,6 +3,7 @@
 **How to run the Project:**
 
 1. Clone this repo using
+
     ```
    git clone https://github.com/hars-21/Pharmacy-Management-System.git
    ```
