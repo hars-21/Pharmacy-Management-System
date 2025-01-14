@@ -96,6 +96,10 @@ o Messaging<br>
 
 By using MySQL commands and its database this website Pharmacy management tends to store all the data received from the users including drugs sales details and the profit made by the owners are all in this data base. This website allows the user to generate invoices for sales, check expiry and quantity remaining of the drugs. It also provides user with options to renew validity and add more drugs into the store and update the database accordingly. By using xampp server these database commands are easily initiated into the database and the ER diagram with relational schema diagrams helps us to make the structure of the database faster and it was easier to make them understand the needs of the website.<br>
 
+**Login Window** <br>
+
+![image2.png]()
+
 **Login Information** <br>
 
 ```
