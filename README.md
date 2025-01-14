@@ -54,7 +54,7 @@ o Windows/ MacOS/ Linux operating system.<br>
 o JRE and JDK.<br>
 o MySQL server (WAMP or XAMPP or any)<br>
 
-# Chapter 2 - DESIGN<br>
+# DESIGN<br>
 
 Database Design is a collection of processes that facilitate the designing, development, implementation and maintenance of enterprise data management systems.<br>
 It helps produce database systems:<br>
