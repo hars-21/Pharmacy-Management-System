@@ -3,7 +3,9 @@
 **How to run the Project:**
 
 1. Clone this repo using
-   - `git clone https://github.com/hars-21/Pharmacy-Management-System.git`
+    ```
+   git clone https://github.com/hars-21/Pharmacy-Management-System.git
+   ```
 2. Install Eclipse J2EE or any other IDE of your choice.
 3. Use WAMP or XAMPP or any server of your choice.
 4. First create the MySql database on WAMP server using the sql file in the repo
@@ -16,7 +18,7 @@ id :1
 password: admin
 ```
 
-note: The login information can be changed while setting up MySQL or via UI later
+**Note:** The login information can be changed while setting up MySQL or via UI later
 
 # INTRODUCTION: <br>
 
