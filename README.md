@@ -12,6 +12,7 @@
 3. Use WAMP or XAMPP or any server of your choice.
 4. First create the MySql database on WAMP server using the sql file in the repo
 5. And then build and run the project from the IDE.
+6. Refer [Docs](dist/README.txt) for more info.
 
 **Login Information** <br>
 
