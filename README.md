@@ -78,7 +78,7 @@ An entity–relationship model describes interrelated things of interest in a sp
 Fig 2: Relational Schema <br><br>
 Relational schema is a collection of meta-data. Database schema describes the structure and constraints of data representing in a particular domain (Refer Fig 2).
 
-# Chapter 3 - IMPLEMENTATION <br>
+# IMPLEMENTATION <br>
 
 **Description on Implementation**<br>
 The goal of this application is to manage the medicines and various function of the pharmacy. <br><br>
