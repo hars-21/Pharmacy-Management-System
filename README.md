@@ -4,9 +4,10 @@
 
 1. Clone this repo using
 
-    ```
+   ```
    git clone https://github.com/hars-21/Pharmacy-Management-System.git
    ```
+
 2. Install Eclipse J2EE or any other IDE of your choice.
 3. Use WAMP or XAMPP or any server of your choice.
 4. First create the MySql database on WAMP server using the sql file in the repo
@@ -101,7 +102,7 @@ By using MySQL commands and its database this website Pharmacy management tends 
 
 **Login Window** <br>
 
-![image2.png]()
+![image2.png](window/login-window.png)
 
 **Login Information** <br>
 
